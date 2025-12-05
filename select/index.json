@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "おべか",
+  "base_artist": "すりぃ",
+  "createdAt": "2025-12-05T10:38:27.938571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おべか",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/01_おべか_すりぃ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おべか (すりぃ ver.)",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/02_おべか_(すりぃ_ver.)_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おべか (Obeka)",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/03_おべか_(Obeka)_すりぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おべか",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_おべか_すりぃ.txt"
+    }
+  ]
+}
